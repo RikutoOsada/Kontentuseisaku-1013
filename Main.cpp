@@ -12,7 +12,7 @@ int main() {
 	//表示
 	cout << "三角形(横2.1,高さ3)の面積は＞" << triangleArea << endl
 		<< "円(半径2)の面積は＞" << circleArea << endl
-		<< "台形(上底2.1,下底3,高さ2)の面積は＞" << trapezoidArea << endl;
+		<< "台形(上底2.1,下底3,高さ4)の面積は＞" << trapezoidArea << endl;
 
 	//変更しました
 }
